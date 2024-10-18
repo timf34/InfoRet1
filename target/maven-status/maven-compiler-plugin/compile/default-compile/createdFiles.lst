@@ -1,0 +1,9 @@
+com/example/RelevanceJudgment.class
+com/example/DocumentData.class
+com/example/Indexer.class
+com/example/CranfieldParser.class
+com/example/CustomAnalyzer.class
+com/example/Evaluation.class
+com/example/Main.class
+com/example/AnalyzerFactory.class
+com/example/Searcher.class
